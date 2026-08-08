@@ -9,6 +9,15 @@
 
 **Senior Flutter Developer** — 6+ years of experience, **20+ production apps** shipped from architecture through deployment, across the Apple App Store and Google Play Store.
 
+## Experience
+
+| Period | Role | Company |
+| --- | --- | --- |
+| Nov 2025 – Jul 2026 | Senior Flutter Developer | SalaamGCC |
+| Jan 2023 – Nov 2025 | Senior Flutter Developer | Match Digital Solution |
+| Dec 2019 – Oct 2022 | Senior Flutter Developer | Sapphire Consulting Services |
+| Nov 2018 – Nov 2019 | Android Developer (Part-time) | Bachelor Developer |
+
 ## Featured apps — live on the stores
 
 | App | What it is | Proof | Store links |
