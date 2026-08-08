@@ -20,7 +20,7 @@
 
 ## Open source
 
-**[artistic_multilingual_keyboards](https://github.com/kamran8545/artistic_multilingual_keyboards)** — a Flutter package for artistic, multilingual keyboards (Arabic, English, Urdu + 19 languages). Published on [pub.dev](https://pub.dev/packages/artistic_multilingual_keyboards), the result of my research into multilingual support in Flutter apps.
+**[artistic_multilingual_keyboards](https://github.com/kamran8545/artistic_multilingual_keyboards)** — a fully customizable Flutter package for multilingual keyboards (English, Urdu, Sindhi + numeric/symbolic layouts). Published on [pub.dev](https://pub.dev/packages/artistic_multilingual_keyboards), built from my research into multilingual support in Flutter apps.
 
 ## Connect
 
